@@ -1,0 +1,13 @@
+Student_ID,Name,Department,Subject,Enrollment_Date,Enrollment_Year,Semester,Fee_Status
+101,Ayesha Rahman,CSE,Data Structure,2022-01-15,2022,Spring,Paid
+102,Tanvir Hasan,CSE,Database Management,2022-03-10,2022,Spring,Due
+103,Nusrat Jahan,EEE,Circuit Analysis,2021-09-05,2021,Fall,Paid
+104,Rafiq Islam,CSE,Operating System,2023-02-20,2023,Spring,Paid
+105,Mim Akter,BBA,Business Communication,2020-11-12,2020,Fall,Due
+106,Sadia Sultana,CSE,Computer Networks,2023-08-18,2023,Fall,Paid
+107,Farhan Ahmed,EEE,Digital Electronics,2021-05-25,2021,Summer,Paid
+108,Jannatul Ferdous,CSE,Artificial Intelligence,2024-01-08,2024,Spring,Due
+109,Sakib Hossain,BBA,Accounting,2020-07-14,2020,Summer,Paid
+110,Nabila Karim,CSE,Machine Learning,2024-09-01,2024,Fall,Paid
+111,Rakibul Islam,EEE,Power System,2025-02-11,2025,Spring,Due
+112,Sumaiya Akter,CSE,Software Engineering,2025-06-22,2025,Summer,Paid
