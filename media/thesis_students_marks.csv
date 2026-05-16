@@ -1,0 +1,13 @@
+student_id,student_name,instructor,thesis_topic,proposal_mark,mid_mark,final_mark
+101,Ayesha Rahman,Dr. Rahman,LLM-based Chatbot,85,82,90
+102,Tanvir Hasan,Dr. Rahman,AI Recommendation System,78,75,80
+103,Nusrat Jahan,Dr. Rahman,HCI with LLM,92,89,95
+104,Rafiq Islam,Dr. Karim,Cybersecurity Detection,74,70,78
+105,Mim Akter,Dr. Karim,Data Mining in Education,80,84,86
+106,Sadia Sultana,Dr. Karim,Smart Healthcare System,69,73,75
+107,Farhan Ahmed,Dr. Sen,Computer Vision Attendance,88,91,93
+108,Jannatul Ferdous,Dr. Sen,NLP Sentiment Analysis,83,80,84
+109,Sakib Hossain,Dr. Sen,IoT Based Monitoring,77,79,81
+110,Nabila Karim,Dr. Rahman,RAG for Academic Search,90,88,92
+111,Rakibul Islam,Dr. Karim,E-commerce Analytics,72,76,79
+112,Sumaiya Akter,Dr. Sen,Bangla Text Classification,86,85,89
