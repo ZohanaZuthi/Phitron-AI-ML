@@ -1,0 +1,16 @@
+Student_ID,Gender,Attendance_Rate,Week,Test_Score,Hostel,Subject,Study_Hours,Class_Level
+101,Female,92,1,88,Yes,Data Structure,5.5,Level 1
+102,Male,78,1,74,No,Programming,3.0,Level 1
+103,Female,85,2,81,Yes,Database,4.5,Level 2
+104,Male,66,2,62,No,Marketing,2.0,Level 1
+105,Female,95,3,91,Yes,Artificial Intelligence,6.0,Level 3
+106,Male,72,3,69,No,BBA,2.8,Level 2
+107,Female,88,4,84,No,Software Engineering,5.0,Level 3
+108,Male,81,4,77,Yes,Cyber Security,4.0,Level 2
+109,Female,74,5,70,No,Accounting,3.2,Level 1
+110,Male,90,5,86,Yes,Machine Learning,5.8,Level 4
+111,Female,68,6,65,No,Finance,2.5,Level 2
+112,Male,93,6,89,Yes,Data Science,6.2,Level 4
+113,Female,80,7,76,Yes,Programming,4.1,Level 1
+114,Male,58,7,55,No,Marketing,1.8,Level 1
+115,Female,97,8,94,Yes,Artificial Intelligence,7.0,Level 4
